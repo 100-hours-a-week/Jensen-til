@@ -12,13 +12,13 @@
 
 25.02.02 세부 주제 1 작성 (상세 내역 링크)
 
-### [2월 첫째주, 3주차] : 
+### [2월 첫째주, 3주차] : NumPy / Pandas
 
 25.02.06 Pandas 심화 ([상세 내역 링크](https://github.com/100-hours-a-week/Jensen-til/blob/main/Feb/2025-02-06.md))
 
 25.02.05 NumPy 심화 ([상세 내역 링크](https://github.com/100-hours-a-week/Jensen-til/blob/main/Feb/2025-02-05.md))
 
-25.02.04 세부 주제 3 작성 (상세 내역 링크)
+25.02.04 NumPy/Pandas 기본개념 ([상세 내역 링크](https://github.com/100-hours-a-week/Jensen-til/blob/main/Feb/2025-02-04.md))
 
 25.02.03 세부 주제 2 작성 (상세 내역 링크)
 
