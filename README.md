@@ -14,6 +14,8 @@
 
 ### [2월 첫째주, 3주차] : NumPy / Pandas
 
+25.02.19 인공지능 보충강의 ([상세 내역 링크](https://github.com/100-hours-a-week/Jensen-til/blob/main/Feb/2025-02-19.md))
+
 25.02.18 인공지능 기초강의 ([상세 내역 링크](https://github.com/100-hours-a-week/Jensen-til/blob/main/Feb/2025-02-18.md))
 
 25.02.08 수학구조 기초강의 ([상세 내역 링크](https://github.com/100-hours-a-week/Jensen-til/blob/main/Feb/2025-02-08.md))
